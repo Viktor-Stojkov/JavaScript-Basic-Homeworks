@@ -1,4 +1,4 @@
-lista = ["Danilo", "Borozan", "javascript", "javascriptJquery", "ajax", "html", "css"]
+lista = ["Viktor", "Stojkov", "javascript", "javascriptJquery", "ajax", "html", "css"]
 
 function print() {
     for (let i of lista) {

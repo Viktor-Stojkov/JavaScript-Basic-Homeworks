@@ -18,7 +18,7 @@ function Person(firstName, lastName, age) {
     this.age1 = age;
 }
 
-let covek1 = new Person("Danilo", "Borozan", 22);
+let covek1 = new Person("Viktor", "Stojkov", 28);
 let covek2 = new Person("Jack", "Jackson", 20);
 let covek3 = new Person("Sergio", "Ramos", 36);
 

@@ -5,5 +5,5 @@ function print(lugje) {
     }
     return sum;
 }
-let lista = [{ fullName: "Danilo Borozan", jobTitle: "programer", salary: 35000 }, { fullName: "Dejan Dejanoski", jobTitle: "programer", salary: 65000 }];
+let lista = [{ fullName: "Viktor Stojkov", jobTitle: "programer", salary: 35000 }, { fullName: "Dejan Dejanoski", jobTitle: "programer", salary: 65000 }];
 document.write(`Sumata na vrabotenite e ${print(lista)}`);
